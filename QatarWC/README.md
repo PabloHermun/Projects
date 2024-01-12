@@ -55,7 +55,7 @@ The project contains the following files:
   There are several buttons that the user can use to simulate the KO-stages one by one or all at once.
   All the functionality of this section is implemented on the client-side with the `ko_simulate.js` file.
 
-* `stles.css`: This stylesheet contains a few lines only to set the main colors of the website. Additionally a `.btn-container`style is defined for the group buttons that will be implemented in the future.
+* `styles.css`: This stylesheet contains a few lines only to set the main colors of the website. Additionally a `.btn-container`style is defined for the group buttons that will be implemented in the future.
 
 * `ko_simulate.js`: JavaScript file containing four functions that build up the functionality of the KO-stages section of the site:
 
